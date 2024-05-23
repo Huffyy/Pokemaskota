@@ -1,0 +1,15 @@
+[
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "nano",
+    "name": "Winston"
+  },
+
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "totoro"
+  }
+]
